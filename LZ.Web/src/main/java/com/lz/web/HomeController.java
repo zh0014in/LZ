@@ -38,7 +38,7 @@ public class HomeController {
 
 	@RequestMapping(value = "/test", method = RequestMethod.GET)
 	public String test(Model model) {
-		String greetings = "Greetings, Spring MVC!";
+		String greetings = "ZMM Love Liang!";
 		model.addAttribute("message", greetings);
 		return "test";
 	}
