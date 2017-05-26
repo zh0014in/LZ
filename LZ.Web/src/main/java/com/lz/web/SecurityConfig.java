@@ -1,4 +1,4 @@
-package org.springframework.security.samples.config;
+package com.lz.web;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
